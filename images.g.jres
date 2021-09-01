@@ -1,0 +1,17 @@
+{
+    "UkCG0guP@Gx/": {
+        "data": "hwQPAA8AAAAAAMDMzAwAAADA7O7u7gIAAOzu7u7uLgAA7u4iIuLuAuDuLiIiIuIC4O4iIiIiIg7g7i4iIiIiDs7MLCIiIiIEfGcsIiIiIgR37iIiIiIiBODiRCIiIkIC4CJVJCIiQg4ALlQkIiIkDgAuIiIiROIAAOAuIiLiDgA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Apple"
+    },
+    "d5derdZ+JZqSnZl`B3gp": {
+        "data": "hwQQABAAAAAAALC7u7sLAAAAsLM9MwsAAAA7s9XTCwAAADuz1VOzAACwM71VU70AALAzvVVTtQAAOzO9XTM1CwA7Mz1bPdULsO4z01s1VQvgIz7TWzVVC+siPtNaNVWzO+4z09o9Vb07MzPT2r3dvbA6M93avd2tAKA6Pdq9O6sAAKCqqqqqCg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pastries"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
